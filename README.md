@@ -23,7 +23,7 @@ This repo is a collection of **stupid easy, visual, step-by-step guides** for pa
 
 | Guide | What it does |
 |---|---|
-| [Patching the roblox.com URL](#) | points the client at your own server instead of Roblox's |
+| [Patching the roblox.com URL](https://github.com/Zombiegoblin4/ORC4Noobs/blob/main/guides/url/2008.md) | points the client at your own server instead of Roblox's |
 | more coming soon... | 🤫 |
 
 -----
