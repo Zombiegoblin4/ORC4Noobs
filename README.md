@@ -19,15 +19,6 @@ This repo is a collection of **stupid easy, visual, step-by-step guides** for pa
 
 -----
 
-### 📖 Guides
-
-| Guide | What it does |
-|---|---|
-| [Patching the roblox.com URL](https://github.com/Zombiegoblin4/ORC4Noobs/blob/main/guides/url/2008.md) | points the client at your own server instead of Roblox's |
-| more coming soon... | 🤫 |
-
------
-
 ### ⚠️ heads up
 
 - these clients are **old and vulnerable**, just patching a URL doesn't fix security issues, so don't go treating this like a hardened, production ready thing
@@ -39,6 +30,15 @@ This repo is a collection of **stupid easy, visual, step-by-step guides** for pa
 ### 🙏 Credits
 
 Made by **Zombiegoblin4**, mostly by rewriting guides i found scattered around and making them actually easy to follow, cuz i don't know sh*t about this either lol
+
+-----
+
+### 📖 Guides
+#### 2008
+| Guide | What it does |
+|---|---|
+| [Patching the roblox.com URL](https://github.com/Zombiegoblin4/ORC4Noobs/blob/main/guides/url/2008.md) | points the client at your own server instead of Roblox's |
+| more coming soon... | 🤫 |
 
 -----
 
